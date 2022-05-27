@@ -1,0 +1,16 @@
+.defaultButton {
+    border-radius: 30px;
+    padding: 1%;
+    border-style: solid;
+    font-size: large;
+    background-color: #6B5A72;
+    border-color: #6B5A72;
+    color: white;
+    margin-bottom: 40px;
+}
+
+.defaultButton:hover {
+    background-color: #CCE1F2;
+    border-color: #6B5A72;
+    color: black;
+}
